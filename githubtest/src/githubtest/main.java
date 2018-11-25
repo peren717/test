@@ -39,4 +39,6 @@ class window extends JFrame
         content.add(J);
         return content;
     }
+    
+    
 }
