@@ -43,7 +43,7 @@ class window extends JFrame
     
     private int num2()
     {
-        return 2;
+        return 3;
     }
     
     
