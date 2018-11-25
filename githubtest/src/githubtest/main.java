@@ -22,8 +22,6 @@ public class main
 class window extends JFrame
 {
     private int num;
-    
-    private int cool;
     public window()
     {
         this.setTitle("test");
