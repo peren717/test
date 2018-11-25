@@ -1,5 +1,7 @@
 package githubtest;
 
+import javax.swing.JFrame;
+
 public class main
 {
 
@@ -10,8 +12,19 @@ public class main
 
     public static void main (String[] args)
     {
-        // TODO Auto-generated method stub
+        window window = new window();
+        
 
     }
 
+}
+
+class window extends JFrame
+{
+    public window()
+    {
+        this.setTitle("test");
+        this.setSize(480, 480);
+        this.setVisible(true);
+    }
 }
