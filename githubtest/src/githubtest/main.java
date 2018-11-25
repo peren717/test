@@ -42,6 +42,11 @@ class window extends JFrame
         return content;
     }
     
+    private int num99(int a)
+    {
+        return 99;
+    }
+    
     
     
 }
