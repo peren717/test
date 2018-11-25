@@ -41,10 +41,17 @@ class window extends JFrame
         return content;
     }
     
+
     private int num2()
     {
         return 3;
     }
+
+    private int num99(int a)
+    {
+        return 99;
+    }
+    
     
     
 }
